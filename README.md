@@ -14,6 +14,7 @@ This dashboard helps business users monitor sales trends, transaction volumes, c
 Learning Credit: This project was created as part of my Power BI learning journey by following the course of Skill Course Founder – Satish Dhawale. The dashboard was recreated by me for learning, practice, and portfolio purposes.
 
 3. 🛠️ Tech Stack
+
 Microsoft Power BI Desktop
 Power Query – Data Cleaning & Transformation
 DAX (Data Analysis Expressions) – Calculated Measures & KPIs
@@ -24,6 +25,7 @@ Map Visualization
 Charts & KPI Cards
 
 4. 📊 Data Source
+
 Mobile Sales Dataset (Sample Dataset used for learning and practice)
 Data includes:
 Sales Amount
@@ -39,6 +41,7 @@ Monthly Sales Records
 Note: The dataset is used for educational purposes only.
 
 5. ✨ Features / Highlights
+
 📌 Dashboard KPIs
 Total Sales
 Total Quantity Sold
@@ -85,6 +88,7 @@ Support business decision-making with interactive reports.
 Dashboard Preview: ![Dashboard](https://github.com/suryawanshisai/Mobile-Dashboard/blob/main/Mobile_Dashboard_Snapshot.png)
 
 📌 Skills Demonstrated
+
 Power BI Dashboard Development
 Data Visualization
 Power Query (ETL)
