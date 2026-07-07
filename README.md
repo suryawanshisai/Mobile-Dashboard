@@ -2,9 +2,11 @@
 📱 Mobile Sales Data Dashboard (Power BI)
 
 1. 🚀 Project Title / Headline
+   
 Mobile Sales Data Dashboard | Interactive Power BI Business Intelligence Dashboard
 
 2. 📖 Short Description / Purpose
+
 The Mobile Sales Data Dashboard is an interactive Power BI project designed to analyze mobile phone sales performance across different cities, brands, models, payment methods, and time periods.
 
 This dashboard helps business users monitor sales trends, transaction volumes, customer ratings, and product performance through dynamic visualizations and filters, enabling faster and data-driven decision-making.
@@ -79,7 +81,8 @@ Monitor monthly sales performance.
 Support business decision-making with interactive reports.
 
 6. 📷 Screenshots
-Dashboard Preview: https://github.com/suryawanshisai/Mobile-Dashboard/blob/main/Mobile_Dashboard_Snapshot.png
+   
+Dashboard Preview: ![Dashboard](https://github.com/suryawanshisai/Mobile-Dashboard/blob/main/Mobile_Dashboard_Snapshot.png)
 
 📌 Skills Demonstrated
 Power BI Dashboard Development
