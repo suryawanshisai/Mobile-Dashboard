@@ -16,18 +16,27 @@ Learning Credit: This project was created as part of my Power BI learning journe
 3. 🛠️ Tech Stack
 
 Microsoft Power BI Desktop
+
 Power Query – Data Cleaning & Transformation
+
 DAX (Data Analysis Expressions) – Calculated Measures & KPIs
+
 Data Modeling – Relationships between tables
+
 Interactive Visualizations
+
 Slicers & Filters
+
 Map Visualization
+
 Charts & KPI Cards
 
 4. 📊 Data Source
 
 Mobile Sales Dataset (Sample Dataset used for learning and practice)
+
 Data includes:
+
 Sales Amount
 Mobile Brands
 Mobile Models
@@ -87,15 +96,4 @@ Support business decision-making with interactive reports.
    
 Dashboard Preview: ![Dashboard](https://github.com/suryawanshisai/Mobile-Dashboard/blob/main/Mobile_Dashboard_Snapshot.png)
 
-📌 Skills Demonstrated
 
-Power BI Dashboard Development
-Data Visualization
-Power Query (ETL)
-DAX Measures
-Data Modeling
-Business Intelligence
-Interactive Reporting
-KPI Design
-Dashboard Design
-Data Analysis
