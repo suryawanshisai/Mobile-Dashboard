@@ -35,7 +35,7 @@ Charts & KPI Cards
 
 Mobile Sales Dataset (Sample Dataset used for learning and practice)
 
-Data includes:
+Data includes :
 
 Sales Amount,
 Mobile Brands,
@@ -51,35 +51,35 @@ Note: The dataset is used for educational purposes only.
 
 5. ✨ Features / Highlights
 
-📌 Dashboard KPIs: 
+📌 Dashboard KPIs : 
 Total Sales,
 Total Quantity Sold,
 Total Transactions,
 Average Sales.
 
-📍 Sales Analysis:
+📍 Sales Analysis :
 Total Sales by City (Interactive Map),
 Total Sales by Mobile Model,
 Total Sales by Day Name.
 
-📈 Trend Analysis:
+📈 Trend Analysis :
 Monthly Quantity Trend,
 Daily Sales Performance.
 
-💳 Payment Insights:
+💳 Payment Insights :
 
-Transactions by Payment Method:
+Transactions by Payment Method :
 UPI,
 Debit Card,
 Credit Card,
 Cash.
 
-⭐ Customer Insights:
+⭐ Customer Insights :
 Customer Rating Distribution,
 Brand-wise Sales Performance,
 Brand Comparison Table.
 
-🎛️ Interactive Filters:
+🎛️ Interactive Filters :
 Mobile Model,
 Brand,
 Payment Method,
@@ -89,9 +89,13 @@ Month-wise Navigation Panel.
 📊 Business Value:
 
 Identify top-performing cities and brands.
+
 Analyze customer purchasing behavior.
+
 Compare payment preferences.
+
 Monitor monthly sales performance.
+
 Support business decision-making with interactive reports.
 
 6. 📷 Screenshots
