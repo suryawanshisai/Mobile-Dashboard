@@ -1,4 +1,6 @@
 # Mobile-Dashboard
+An interactive **Mobile Sales Data Dashboard** built using Microsoft Power BI to analyze sales, quantity, transactions, brands, mobile models, customer ratings, and payment methods through dynamic visualizations and KPIs.
+
 📱 Mobile Sales Data Dashboard (Power BI)
 
 1. 🚀 Project Title / Headline
